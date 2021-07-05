@@ -30,6 +30,6 @@
 }
 .b {
   border-right: 8px solid;
-  border-image: linear-gradien(blue, cyan);
+  border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
 }
