@@ -1,0 +1,35 @@
+.id {
+  width: 50%;
+  display: flex;
+}
+#class {
+  width: 500px;
+}
+#class2 {
+  width: 150px;
+  margin-top: 20px;
+}
+#class3 {
+  width: 150px;
+  margin-top: 20px;
+}
+.id1 {
+  display: flex;
+}
+.bs {
+  box-shadow: 10px 10px 30px black;
+  margin-right: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 10px;
+}
+.bs1 {
+  border-right: 8px solid;
+  border-image: linear-gradient(blue, white);
+  border-image-slice: 1;
+}
+.b {
+  border-right: 8px solid;
+  border-image: linear-gradien(blue, cyan);
+  border-image-slice: 1;
+}
